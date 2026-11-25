@@ -1,5 +1,7 @@
 # MentDev · Dashboard comercial de cotizaciones 2026 (Excel)
 
+<img src="docs/devi.png" align="right" width="200" alt="Devi, la mascota de MentDev">
+
 Libro de Excel que modela el seguimiento comercial de **MentDev**: embudo de cotizaciones, conversión, rentabilidad por línea de servicio y cumplimiento de metas mensuales. Todo el análisis se resuelve con tablas, fórmulas, validación de datos, formato condicional y gráficos nativos, construido íntegramente en **Excel para la Web (Microsoft 365)**.
 
 ![Indicadores principales](img/hoja-dashboard-A.png)
